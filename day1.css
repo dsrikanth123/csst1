@@ -1,0 +1,48 @@
+.name{
+    color: white;
+    background-color: blueviolet;
+    font-size: 10px;
+    text-transform:capitalize;
+    text-align: center;
+}
+.summary{
+    background-color:orangered;
+    font-size: 10px;
+    text-transform: capitalize;
+    text-align: center; 
+    p{
+        text-transform: none;
+    }
+}
+.work{
+    color: white;
+    background-color: chartreuse;
+    font-size: 15px;
+    text-transform: capitalize;
+    text-align: center; 
+    
+   h2{
+    color:black
+   }
+
+   h4{
+     color: white;
+   }
+   p{
+    color: black;
+   }
+}
+.edu{
+    color: white;
+    background-color:darkmagenta;
+    font-size: 15px;
+    text-transform: capitalize;
+    text-align: center; 
+}
+.skills{
+    color: white;
+    background-color:red;
+    font-size: 15px;
+    text-transform: capitalize;
+    text-align: center;    
+} 
